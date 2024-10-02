@@ -108,11 +108,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\University Work\\Year 2\\Multiplayer Games Programming\\Multiplayer-MonoGame\\Multiplayer MonoGame\\Multiplayer MonoGame.csproj",
+      "projectUniqueName": "F:\\University Work\\Year 2\\Multiplayer Games Programming\\Multiplayer-MonoGame\\Multiplayer MonoGame.csproj",
       "projectName": "Multiplayer MonoGame",
-      "projectPath": "F:\\University Work\\Year 2\\Multiplayer Games Programming\\Multiplayer-MonoGame\\Multiplayer MonoGame\\Multiplayer MonoGame.csproj",
+      "projectPath": "F:\\University Work\\Year 2\\Multiplayer Games Programming\\Multiplayer-MonoGame\\Multiplayer MonoGame.csproj",
       "packagesPath": "C:\\Users\\M015486N\\.nuget\\packages\\",
-      "outputPath": "F:\\University Work\\Year 2\\Multiplayer Games Programming\\Multiplayer-MonoGame\\Multiplayer MonoGame\\obj\\",
+      "outputPath": "F:\\University Work\\Year 2\\Multiplayer Games Programming\\Multiplayer-MonoGame\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
