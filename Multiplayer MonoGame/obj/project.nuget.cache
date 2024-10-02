@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MAWHrJAW7Xw=",
+  "success": true,
+  "projectFilePath": "F:\\University Work\\Year 2\\Multiplayer Games Programming\\Multiplayer-MonoGame\\Multiplayer MonoGame\\Multiplayer MonoGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\M015486N\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\M015486N\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"
+  ],
+  "logs": []
+}
