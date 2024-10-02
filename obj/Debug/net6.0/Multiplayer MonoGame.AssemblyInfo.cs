@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Multiplayer MonoGame")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3ad4dc547b9bcee3a5852be0772c52190663173")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f56347c243e04dae739092c5ab695ad067ddd03f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Multiplayer MonoGame")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Multiplayer MonoGame")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

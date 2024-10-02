@@ -1,0 +1,26 @@
+F:\University Work\Year 2\Multiplayer Games Programming\Multiplayer-MonoGame\bin\Debug\net6.0\Multiplayer MonoGame.exe
+F:\University Work\Year 2\Multiplayer Games Programming\Multiplayer-MonoGame\bin\Debug\net6.0\Multiplayer MonoGame.deps.json
+F:\University Work\Year 2\Multiplayer Games Programming\Multiplayer-MonoGame\bin\Debug\net6.0\Multiplayer MonoGame.runtimeconfig.json
+F:\University Work\Year 2\Multiplayer Games Programming\Multiplayer-MonoGame\bin\Debug\net6.0\Multiplayer MonoGame.dll
+F:\University Work\Year 2\Multiplayer Games Programming\Multiplayer-MonoGame\bin\Debug\net6.0\Multiplayer MonoGame.pdb
+F:\University Work\Year 2\Multiplayer Games Programming\Multiplayer-MonoGame\bin\Debug\net6.0\MonoGame.Framework.dll
+F:\University Work\Year 2\Multiplayer Games Programming\Multiplayer-MonoGame\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+F:\University Work\Year 2\Multiplayer Games Programming\Multiplayer-MonoGame\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+F:\University Work\Year 2\Multiplayer Games Programming\Multiplayer-MonoGame\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+F:\University Work\Year 2\Multiplayer Games Programming\Multiplayer-MonoGame\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+F:\University Work\Year 2\Multiplayer Games Programming\Multiplayer-MonoGame\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+F:\University Work\Year 2\Multiplayer Games Programming\Multiplayer-MonoGame\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+F:\University Work\Year 2\Multiplayer Games Programming\Multiplayer-MonoGame\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+F:\University Work\Year 2\Multiplayer Games Programming\Multiplayer-MonoGame\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+F:\University Work\Year 2\Multiplayer Games Programming\Multiplayer-MonoGame\obj\Debug\net6.0\Multiplayer MonoGame.csproj.AssemblyReference.cache
+F:\University Work\Year 2\Multiplayer Games Programming\Multiplayer-MonoGame\obj\Debug\net6.0\Multiplayer MonoGame.GeneratedMSBuildEditorConfig.editorconfig
+F:\University Work\Year 2\Multiplayer Games Programming\Multiplayer-MonoGame\obj\Debug\net6.0\Multiplayer MonoGame.AssemblyInfoInputs.cache
+F:\University Work\Year 2\Multiplayer Games Programming\Multiplayer-MonoGame\obj\Debug\net6.0\Multiplayer MonoGame.AssemblyInfo.cs
+F:\University Work\Year 2\Multiplayer Games Programming\Multiplayer-MonoGame\obj\Debug\net6.0\Multiplayer MonoGame.csproj.CoreCompileInputs.cache
+F:\University Work\Year 2\Multiplayer Games Programming\Multiplayer-MonoGame\obj\Debug\net6.0\Multiplayer MonoGame.sourcelink.json
+F:\University Work\Year 2\Multiplayer Games Programming\Multiplayer-MonoGame\obj\Debug\net6.0\Multipla.2D1AE61D.Up2Date
+F:\University Work\Year 2\Multiplayer Games Programming\Multiplayer-MonoGame\obj\Debug\net6.0\Multiplayer MonoGame.dll
+F:\University Work\Year 2\Multiplayer Games Programming\Multiplayer-MonoGame\obj\Debug\net6.0\refint\Multiplayer MonoGame.dll
+F:\University Work\Year 2\Multiplayer Games Programming\Multiplayer-MonoGame\obj\Debug\net6.0\Multiplayer MonoGame.pdb
+F:\University Work\Year 2\Multiplayer Games Programming\Multiplayer-MonoGame\obj\Debug\net6.0\Multiplayer MonoGame.genruntimeconfig.cache
+F:\University Work\Year 2\Multiplayer Games Programming\Multiplayer-MonoGame\obj\Debug\net6.0\ref\Multiplayer MonoGame.dll
